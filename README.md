@@ -62,6 +62,7 @@ This repository contains Python functions to perform various mathematical and ma
    
 3. Open the provided notebook file and interact with the functions.
 
+---
 ## **Usage**
 1. Fibonacci Sequence:
    ```bash
