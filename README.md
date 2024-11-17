@@ -51,7 +51,7 @@ This repository contains Python functions to perform various mathematical and ma
    ```bash
    python math_operations.py
 
-### **Run in Jupyter Notebook
+### **Run in Jupyter Notebook**
 1. Install Jupyter Notebook if not already installed:
    ```bash
    pip install notebook
@@ -65,15 +65,24 @@ This repository contains Python functions to perform various mathematical and ma
 ---
 ## **Usage**
 1. Fibonacci Sequence:
-   ```bash
+   ```python
    from math_operations import fibonacci
    print(fibonacci(10))
    # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
 
 2. Matrix Addition:
-   ```bash
+   ```python
    from math_operations import add_matrices
    matrix1 = [[1, 2], [3, 4]]
    matrix2 = [[5, 6], [7, 8]]
    print(add_matrices(matrix1, matrix2))
    # Output: [[6, 8], [10, 12]]
+   
+---
+## **File Structure**
+
+```plaintext
+.
+├── math_operations.py      # Python script with all functions
+├── math_operations.ipynb   # Jupyter Notebook with all functions
+├── README.md               # Documentation
