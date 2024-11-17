@@ -41,4 +41,14 @@ This repository contains Python functions to perform various mathematical and ma
 ### **Run as a Python Script**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/python-math-matrix-operations.git
+   git clone https://github.com/py_problems/python-math-matrix-operations.git
+
+2. To navigate to the project folder, use the following commands:
+   ```bash
+   cd python-math-matrix-operations
+
+
+
+
+
+
