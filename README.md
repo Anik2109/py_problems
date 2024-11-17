@@ -61,3 +61,18 @@ This repository contains Python functions to perform various mathematical and ma
    jupyter notebook
    
 3. Open the provided notebook file and interact with the functions.
+
+## **Usage**
+1. Fibonacci Sequence:
+   ```bash
+   from math_operations import fibonacci
+   print(fibonacci(10))
+   # Output: [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]
+
+2. Matrix Addition:
+   ```bash
+   from math_operations import add_matrices
+   matrix1 = [[1, 2], [3, 4]]
+   matrix2 = [[5, 6], [7, 8]]
+   print(add_matrices(matrix1, matrix2))
+   # Output: [[6, 8], [10, 12]]
