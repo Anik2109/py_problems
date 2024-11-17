@@ -46,9 +46,18 @@ This repository contains Python functions to perform various mathematical and ma
 2. To navigate to the project folder, use the following commands:
    ```bash
    cd python-math-matrix-operations
+   
+3. Run the Python script:
+   ```bash
+   python math_operations.py
 
+### **Run in Jupyter Notebook
+1. Install Jupyter Notebook if not already installed:
+   ```bash
+   pip install notebook
 
-
-
-
-
+2. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   
+3. Open the provided notebook file and interact with the functions.
