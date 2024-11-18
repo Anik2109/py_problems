@@ -81,4 +81,5 @@ This repository contains Python functions to perform various mathematical and ma
 .
 ├── math_operations.py      # Python script with all functions
 ├── math_operations.ipynb   # Jupyter Notebook with all functions
+├── client.py               # Script to call and demonstrate functions
 ├── README.md               # Documentation
