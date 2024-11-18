@@ -38,6 +38,7 @@ This repository contains Python functions to perform various mathematical and ma
 - Python 3.6 or higher
 - Jupyter Notebook (optional, for interactive use)
 
+
 ### **Run as a Python Script**
 1. Clone the repository:
    ```bash
@@ -46,6 +47,23 @@ This repository contains Python functions to perform various mathematical and ma
 2. Run the Python script:
    ```bash
    python math_operations.py
+
+   
+### **Run the Client Script**
+
+The client.py script demonstrates the usage of all functions from math_operations.py. To run it:
+
+1. Clone the repository and navigate to the project folder:
+   
+   ```bash
+   git clone https://github.com/py_problems.git
+
+2. Run the client script:
+   ```bash
+   python client.py
+
+3. The script will call all the functions and display their outputs in the terminal.
+
 
 ### **Run in Jupyter Notebook**
 1. Install Jupyter Notebook if not already installed:
